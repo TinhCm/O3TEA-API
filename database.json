@@ -1,80 +1,207 @@
 {
-    "products": [{
+    "list": [{
+            "id": 0,
+            "maLoai": "NE",
+            "tenLoai": "Nước ép",
+            "name": "Nước ép dưa hấu",
+            "img": "https://i.imgur.com/3xiPmxt.jpg",
+            "gia": "18,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
             "id": 1,
-            "name": "Product001",
-            "cost": 10,
-            "quantity": 1000,
-            "locationId": 1,
-            "familyId": 1
+            "maLoai": "NE",
+            "tenLoai": "Nước ép",
+            "name": "Nước ép cam",
+            "img": "https://i.imgur.com/WE12k13.jpg",
+            "gia": "15,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
         },
         {
             "id": 2,
-            "name": "Product002",
-            "cost": 20,
-            "quantity": 2000,
-            "locationId": 1,
-            "familyId": 2
+            "maLoai": "NE",
+            "tenLoai": "Nước ép",
+            "name": "Nước ép lựu",
+            "img": "https://i.imgur.com/OeFQhsy.jpg",
+            "gia": "25,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
         },
         {
             "id": 3,
-            "name": "Product003",
-            "cost": 30,
-            "quantity": 3000,
-            "locationId": 3,
-            "familyId": 2
+            "maLoai": "NE",
+            "tenLoai": "Nước ép",
+            "name": "Nước ép táo lê",
+            "img": "https://i.imgur.com/QFc4aLj.jpg",
+            "gia": "20,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
         },
         {
             "id": 4,
-            "name": "Product004",
-            "cost": 40,
-            "quantity": 4000,
-            "locationId": 2,
-            "familyId": 3
+            "maLoai": "ST",
+            "tenLoai": "Sinh tố",
+            "name": "Sinh tố sapoche",
+            "img": "https://i.imgur.com/3kVMCOc.jpg",
+            "gia": "22,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
+            "id": 5,
+            "maLoai": "ST",
+            "tenLoai": "Sinh tố",
+            "name": "Sinh tố đu đủ",
+            "img": "https://i.imgur.com/eaHtX5S.jpg",
+            "gia": "20,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
+            "id": 6,
+            "maLoai": "ST",
+            "tenLoai": "Sinh tố",
+            "name": "Sinh tố dâu",
+            "img": "https://i.imgur.com/OVMsORC.jpg",
+            "gia": "25,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
+            "id": 7,
+            "maLoai": "ST",
+            "tenLoai": "Sinh tố",
+            "name": "Sinh tố bơ xoài",
+            "img": "https://i.imgur.com/qgGESgV.jpg",
+            "gia": "22,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
+            "id": 8,
+            "maLoai": "ST",
+            "tenLoai": "Sinh tố",
+            "name": "Sinh tố dưa gang",
+            "img": "https://i.imgur.com/JltzV16.jpg",
+            "gia": "20,000đ",
+            "banChay": 0,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
+            "id": 9,
+            "maLoai": "TS",
+            "tenLoai": "Trà sữa",
+            "name": "Trà sữa thập cẩm",
+            "img": "https://i.imgur.com/UCnqbMp.jpg",
+            "gia": "20,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
+            "maLoai": "NE",
+            "tenLoai": "Nước ép",
+            "name": "Nước ép cóc",
+            "img": "https://i.imgur.com/SdajgKm.jpg",
+            "gia": "18.000đ",
+            "banChay": "0",
+            "trangThai": 0,
+            "moTa": "",
+            "date": "15:22:10-4/2/2022",
+            "createdAt": 1643962932248,
+            "id": 10
+        },
+        {
+            "maLoai": "NE",
+            "tenLoai": "Nước ép",
+            "name": "Nước ép táo thơm",
+            "img": "https://i.imgur.com/Wm44vPz.jpg",
+            "gia": "20,000đ",
+            "banChay": "0",
+            "moTa": "",
+            "trangThai": 0,
+            "date": "18:8:7-5/2/2022",
+            "createdAt": 1644059288791,
+            "id": 11
         }
     ],
-    "locations": [{
-            "id": 1,
-            "name": "Location001"
+    "email": [{
+            "email": "duongvantinh07072015@gmail.com",
+            "date": "20:33:54-4/2/2022",
+            "createdAt": 1643981634401,
+            "id": 1
         },
         {
-            "id": 2,
-            "name": "Location002"
+            "email": "o3tea@gmail.com",
+            "date": "20:34:34-4/2/2022",
+            "createdAt": 1643981674992,
+            "id": 2
         },
         {
-            "id": 3,
-            "name": "Location003"
+            "email": "administrator@gmail.com",
+            "date": "20:35:47-4/2/2022",
+            "createdAt": 1643981747831,
+            "id": 3
+        },
+        {
+            "email": "n19dckt084@student.ptithcm.edu.vn ",
+            "date": "21:13:17-4/2/2022",
+            "createdAt": 1643983998316,
+            "id": 4
         }
     ],
-    "families": [{
-            "id": 1,
-            "name": "FM001"
+    "contact": [{
+            "name": "Dương Văn Tính",
+            "phone": "0989828527",
+            "email": "duongvantinh07072015@gmail.com",
+            "content": "Cập nhật giao diện mobile",
+            "date": "20:35:21-4/2/2022",
+            "createdAt": 1643981721446,
+            "id": 1
         },
         {
-            "id": 2,
-            "name": "FM002"
+            "name": "admin",
+            "phone": "0855304760",
+            "email": "administrator@gmail.com",
+            "content": "Tài khoản admin",
+            "date": "20:36:45-4/2/2022",
+            "createdAt": 1643981805282,
+            "id": 2
         },
         {
-            "id": 3,
-            "name": "FM003"
+            "name": "O3 TEA",
+            "phone": "0971141199",
+            "email": "o3tea@gmail.com",
+            "content": "Email quản trị",
+            "date": "20:38:0-4/2/2022",
+            "createdAt": 1643981881286,
+            "id": 3
+        },
+        {
+            "name": "Vô Danh",
+            "phone": "0342947245",
+            "email": "n19dckt084@student.ptithcm.edu.vn ",
+            "content": "Hello shop, cho mìn mụt ly rau má đậu xanh nha",
+            "date": "12:30:31-9/2/2022",
+            "createdAt": 1644384651906,
+            "id": 4
         }
     ],
-    "transactions": [{
-            "id": 1,
-            "cost": 11,
-            "quantity": 10,
-            "productId": 1
-        },
-        {
-            "id": 2,
-            "cost": 12,
-            "quantity": 100,
-            "productId": 2
-        },
-        {
-            "id": 3,
-            "cost": 15,
-            "quantity": 101,
-            "productId": 3
-        }
-    ]
+    "user": [{
+        "ten": "admin",
+        "password": "o3tea",
+        "date": "16:33:2-31/8/2021",
+        "id": 1
+    }]
 }
