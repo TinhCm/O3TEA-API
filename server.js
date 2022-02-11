@@ -116,8 +116,8 @@ server.use(/^(?!\/auth).*$/, (req, res, next) => {
     }
 })
 
+const PORT = process.env.PORT || 3000;
 server.use(router)
-
-server.listen(8000, () => {
-    console.log('Run Auth API Server')
+server.listen(PORT, () => {
+    console.log('JSON Server is running')
 })
