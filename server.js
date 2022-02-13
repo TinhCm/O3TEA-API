@@ -92,10 +92,10 @@ server.post('/auth/login', (req, res) => {
 })
 
 server.use(/^(?!\/auth).*$/, (req, res, next) => {
-    if (req.headers.origin === 'https://o3tea.tk/') {
+    if (req.headers.origin === 'https://o3tea.tk') {
         next();
     } else {
-        if (req.headers.origin === 'https://o3tea-admin.tk/') {
+        if (req.headers.origin === 'https://o3tea-admin.tk') {
             if (req.headers.authorization === undefined || req.headers.authorization.split(' ')[0] !== 'Bearer') {
                 const status = 401
                 const message = 'Error in authorization format'
