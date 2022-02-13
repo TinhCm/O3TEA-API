@@ -1,559 +1,201 @@
 {
-  "list": [
-    {
-      "id": 0,
-      "maLoai": "NE",
-      "tenLoai": "Nước ép",
-      "name": "Nước ép dưa hấu",
-      "img": "https://i.imgur.com/3xiPmxt.jpg",
-      "gia": "18,000đ",
-      "banChay": 1,
-      "trangThai": 1,
-      "moTa": null
-    },
-    {
-      "id": 1,
-      "maLoai": "NE",
-      "tenLoai": "Nước ép",
-      "name": "Nước ép cam",
-      "img": "https://i.imgur.com/WE12k13.jpg",
-      "gia": "15,000đ",
-      "banChay": 1,
-      "trangThai": 1,
-      "moTa": null
-    },
-    {
-      "id": 2,
-      "maLoai": "NE",
-      "tenLoai": "Nước ép",
-      "name": "Nước ép lựu",
-      "img": "https://i.imgur.com/OeFQhsy.jpg",
-      "gia": "25,000đ",
-      "banChay": 1,
-      "trangThai": 1,
-      "moTa": null
-    },
-    {
-      "id": 3,
-      "maLoai": "NE",
-      "tenLoai": "Nước ép",
-      "name": "Nước ép táo lê",
-      "img": "https://i.imgur.com/QFc4aLj.jpg",
-      "gia": "20,000đ",
-      "banChay": 1,
-      "trangThai": 1,
-      "moTa": null
-    },
-    {
-      "id": 4,
-      "maLoai": "ST",
-      "tenLoai": "Sinh tố",
-      "name": "Sinh tố sapoche",
-      "img": "https://i.imgur.com/3kVMCOc.jpg",
-      "gia": "22,000đ",
-      "banChay": 1,
-      "trangThai": 1,
-      "moTa": null
-    },
-    {
-      "id": 5,
-      "maLoai": "ST",
-      "tenLoai": "Sinh tố",
-      "name": "Sinh tố đu đủ",
-      "img": "https://i.imgur.com/eaHtX5S.jpg",
-      "gia": "20,000đ",
-      "banChay": 1,
-      "trangThai": 1,
-      "moTa": null
-    },
-    {
-      "id": 6,
-      "maLoai": "ST",
-      "tenLoai": "Sinh tố",
-      "name": "Sinh tố dâu",
-      "img": "https://i.imgur.com/OVMsORC.jpg",
-      "gia": "25,000đ",
-      "banChay": 1,
-      "trangThai": 1,
-      "moTa": null
-    },
-    {
-      "id": 7,
-      "maLoai": "ST",
-      "tenLoai": "Sinh tố",
-      "name": "Sinh tố bơ xoài",
-      "img": "https://i.imgur.com/qgGESgV.jpg",
-      "gia": "22,000đ",
-      "banChay": 1,
-      "trangThai": 1,
-      "moTa": null
-    },
-    {
-      "id": 8,
-      "maLoai": "ST",
-      "tenLoai": "Sinh tố",
-      "name": "Sinh tố dưa gang",
-      "img": "https://i.imgur.com/JltzV16.jpg",
-      "gia": "20,000đ",
-      "banChay": 0,
-      "trangThai": 1,
-      "moTa": null
-    },
-    {
-      "id": 9,
-      "maLoai": "TS",
-      "tenLoai": "Trà sữa",
-      "name": "Trà sữa thập cẩm",
-      "img": "https://i.imgur.com/UCnqbMp.jpg",
-      "gia": "20,000đ",
-      "banChay": 1,
-      "trangThai": 1,
-      "moTa": null
-    },
-    {
-      "maLoai": "NE",
-      "tenLoai": "Nước ép",
-      "name": "Nước ép cóc",
-      "img": "https://i.imgur.com/SdajgKm.jpg",
-      "gia": "18.000đ",
-      "banChay": "0",
-      "trangThai": 0,
-      "moTa": "",
-      "date": "15:22:10-4/2/2022",
-      "createdAt": 1643962932248,
-      "id": 10
-    },
-    {
-      "maLoai": "NE",
-      "tenLoai": "Nước ép",
-      "name": "Nước ép táo thơm",
-      "img": "https://i.imgur.com/Wm44vPz.jpg",
-      "gia": "20,000đ",
-      "banChay": "0",
-      "moTa": "",
-      "trangThai": 0,
-      "date": "18:8:7-5/2/2022",
-      "createdAt": 1644059288791,
-      "id": 11
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 12
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 13
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 14
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 15
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 16
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 17
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 18
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 19
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 20
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 21
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 22
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 23
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 24
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 25
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 26
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 27
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 28
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 29
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 30
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 31
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 32
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 33
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 34
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 35
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 36
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 37
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 38
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 39
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 40
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 41
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 42
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 43
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 44
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 45
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 46
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 47
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 48
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 49
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 50
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 51
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 52
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 53
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 54
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 55
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 56
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 57
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 58
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 59
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 60
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 61
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 62
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 63
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 64
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 65
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 66
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 67
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 68
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 69
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 70
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 71
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 72
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 73
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 74
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 75
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 76
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 77
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 78
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 79
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 80
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 81
-    },
-    {
-      "name": "admin",
-      "password": "o3tea@123",
-      "id": 82
-    }
-  ],
-  "email": [
-    {
-      "email": "duongvantinh07072015@gmail.com",
-      "date": "20:33:54-4/2/2022",
-      "createdAt": 1643981634401,
-      "id": 1
-    },
-    {
-      "email": "o3tea@gmail.com",
-      "date": "20:34:34-4/2/2022",
-      "createdAt": 1643981674992,
-      "id": 2
-    },
-    {
-      "email": "administrator@gmail.com",
-      "date": "20:35:47-4/2/2022",
-      "createdAt": 1643981747831,
-      "id": 3
-    },
-    {
-      "email": "n19dckt084@student.ptithcm.edu.vn ",
-      "date": "21:13:17-4/2/2022",
-      "createdAt": 1643983998316,
-      "id": 4
-    }
-  ],
-  "contact": [
-    {
-      "name": "Dương Văn Tính",
-      "phone": "0989828527",
-      "email": "duongvantinh07072015@gmail.com",
-      "content": "Cập nhật giao diện mobile",
-      "date": "20:35:21-4/2/2022",
-      "createdAt": 1643981721446,
-      "id": 1
-    },
-    {
-      "name": "admin",
-      "phone": "0855304760",
-      "email": "administrator@gmail.com",
-      "content": "Tài khoản admin",
-      "date": "20:36:45-4/2/2022",
-      "createdAt": 1643981805282,
-      "id": 2
-    },
-    {
-      "name": "O3 TEA",
-      "phone": "0971141199",
-      "email": "o3tea@gmail.com",
-      "content": "Email quản trị",
-      "date": "20:38:0-4/2/2022",
-      "createdAt": 1643981881286,
-      "id": 3
-    },
-    {
-      "name": "Vô Danh",
-      "phone": "0342947245",
-      "email": "n19dckt084@student.ptithcm.edu.vn ",
-      "content": "Hello shop, cho mìn mụt ly rau má đậu xanh nha",
-      "date": "12:30:31-9/2/2022",
-      "createdAt": 1644384651906,
-      "id": 4
-    }
-  ]
+    "list": [{
+            "id": 0,
+            "maLoai": "NE",
+            "tenLoai": "Nước ép",
+            "name": "Nước ép dưa hấu",
+            "img": "https://i.imgur.com/3xiPmxt.jpg",
+            "gia": "18,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
+            "id": 1,
+            "maLoai": "NE",
+            "tenLoai": "Nước ép",
+            "name": "Nước ép cam",
+            "img": "https://i.imgur.com/WE12k13.jpg",
+            "gia": "15,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
+            "id": 2,
+            "maLoai": "NE",
+            "tenLoai": "Nước ép",
+            "name": "Nước ép lựu",
+            "img": "https://i.imgur.com/OeFQhsy.jpg",
+            "gia": "25,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
+            "id": 3,
+            "maLoai": "NE",
+            "tenLoai": "Nước ép",
+            "name": "Nước ép táo lê",
+            "img": "https://i.imgur.com/QFc4aLj.jpg",
+            "gia": "20,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
+            "id": 4,
+            "maLoai": "ST",
+            "tenLoai": "Sinh tố",
+            "name": "Sinh tố sapoche",
+            "img": "https://i.imgur.com/3kVMCOc.jpg",
+            "gia": "22,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
+            "id": 5,
+            "maLoai": "ST",
+            "tenLoai": "Sinh tố",
+            "name": "Sinh tố đu đủ",
+            "img": "https://i.imgur.com/eaHtX5S.jpg",
+            "gia": "20,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
+            "id": 6,
+            "maLoai": "ST",
+            "tenLoai": "Sinh tố",
+            "name": "Sinh tố dâu",
+            "img": "https://i.imgur.com/OVMsORC.jpg",
+            "gia": "25,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
+            "id": 7,
+            "maLoai": "ST",
+            "tenLoai": "Sinh tố",
+            "name": "Sinh tố bơ xoài",
+            "img": "https://i.imgur.com/qgGESgV.jpg",
+            "gia": "22,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
+            "id": 8,
+            "maLoai": "ST",
+            "tenLoai": "Sinh tố",
+            "name": "Sinh tố dưa gang",
+            "img": "https://i.imgur.com/JltzV16.jpg",
+            "gia": "20,000đ",
+            "banChay": 0,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
+            "id": 9,
+            "maLoai": "TS",
+            "tenLoai": "Trà sữa",
+            "name": "Trà sữa thập cẩm",
+            "img": "https://i.imgur.com/UCnqbMp.jpg",
+            "gia": "20,000đ",
+            "banChay": 1,
+            "trangThai": 1,
+            "moTa": null
+        },
+        {
+            "maLoai": "NE",
+            "tenLoai": "Nước ép",
+            "name": "Nước ép cóc",
+            "img": "https://i.imgur.com/SdajgKm.jpg",
+            "gia": "18.000đ",
+            "banChay": "0",
+            "trangThai": 0,
+            "moTa": "",
+            "date": "15:22:10-4/2/2022",
+            "createdAt": 1643962932248,
+            "id": 10
+        },
+        {
+            "maLoai": "NE",
+            "tenLoai": "Nước ép",
+            "name": "Nước ép táo thơm",
+            "img": "https://i.imgur.com/Wm44vPz.jpg",
+            "gia": "20,000đ",
+            "banChay": "0",
+            "moTa": "",
+            "trangThai": 0,
+            "date": "18:8:7-5/2/2022",
+            "createdAt": 1644059288791,
+            "id": 11
+        }
+    ],
+    "email": [{
+            "email": "duongvantinh07072015@gmail.com",
+            "date": "20:33:54-4/2/2022",
+            "createdAt": 1643981634401,
+            "id": 1
+        },
+        {
+            "email": "o3tea@gmail.com",
+            "date": "20:34:34-4/2/2022",
+            "createdAt": 1643981674992,
+            "id": 2
+        },
+        {
+            "email": "administrator@gmail.com",
+            "date": "20:35:47-4/2/2022",
+            "createdAt": 1643981747831,
+            "id": 3
+        },
+        {
+            "email": "n19dckt084@student.ptithcm.edu.vn ",
+            "date": "21:13:17-4/2/2022",
+            "createdAt": 1643983998316,
+            "id": 4
+        }
+    ],
+    "contact": [{
+            "name": "Dương Văn Tính",
+            "phone": "0989828527",
+            "email": "duongvantinh07072015@gmail.com",
+            "content": "Cập nhật giao diện mobile",
+            "date": "20:35:21-4/2/2022",
+            "createdAt": 1643981721446,
+            "id": 1
+        },
+        {
+            "name": "admin",
+            "phone": "0855304760",
+            "email": "administrator@gmail.com",
+            "content": "Tài khoản admin",
+            "date": "20:36:45-4/2/2022",
+            "createdAt": 1643981805282,
+            "id": 2
+        },
+        {
+            "name": "O3 TEA",
+            "phone": "0971141199",
+            "email": "o3tea@gmail.com",
+            "content": "Email quản trị",
+            "date": "20:38:0-4/2/2022",
+            "createdAt": 1643981881286,
+            "id": 3
+        },
+        {
+            "name": "Vô Danh",
+            "phone": "0342947245",
+            "email": "n19dckt084@student.ptithcm.edu.vn ",
+            "content": "Hello shop, cho mìn mụt ly rau má đậu xanh nha",
+            "date": "12:30:31-9/2/2022",
+            "createdAt": 1644384651906,
+            "id": 4
+        }
+    ]
 }
