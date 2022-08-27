@@ -92,7 +92,7 @@ server.post('/auth/login', (req, res) => {
 })
 
 server.use(/^(?!\/auth).*$/, (req, res, next) => {
-    if (req.headers.origin === 'https://o3tea.tk') {
+    if (req.headers.origin === 'https://o3tea.netlify.app/') {
         next();
     } else {
         if (req.headers.origin === 'https://o3tea-admin.tk') {
